@@ -1,0 +1,2 @@
+# SmartContractNodeDemo
+一个简单的Demo带你了解智能合约开发流程，从合约编译部署，通过web3调用来讲解整个流程。
